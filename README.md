@@ -1,7 +1,8 @@
 # 👋 Salut, moi c’est René  
 
 🎨 Étudiant en Publicité & Arts Graphiques | 🚀 Développeur Frontend en devenir | 💻 Designer Graphique de formation
-🚀 Passionné par la **technologie**, le **design**, l’**intelligence artificielle**, le **nocode** et les **automatisations**.  
+
+Passionné par la **technologie**, le **design**, l’**intelligence artificielle**, le **nocode** et les **automatisations**.  
 
 💡 Objectifs :  
 - Devenir **expert en marketing digital** (IA, nocode & automatisations)  
