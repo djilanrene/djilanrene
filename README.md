@@ -38,9 +38,9 @@
 ---
 
 ## 🌍 Me retrouver
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ton-profil)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/...)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://ton-site.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/djilanrene)  
+<!--[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/...)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://ton-site.com)-->
 
 ---
 
