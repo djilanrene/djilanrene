@@ -1,4 +1,4 @@
-# Hi, I'm René DJILAN 👋
+# Hi, I'm René 👋
 
 - Developer
 - I think in systems and question why things are built the way they are.
